@@ -12,7 +12,10 @@ class ProdConfig(Config):
 
 
 class DevConfig(Config):
-    DEBUG = True
+    '''       
+    Child class
+    '''
+DEBUG = True
 
 config_options = {
 'development':DevConfig,
