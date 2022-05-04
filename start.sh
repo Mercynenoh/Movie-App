@@ -1,0 +1,2 @@
+export MOVIE_API_KEY=ed67dc3faf555bee15aed975825b1f51
+export SECRET_KEY=super super secret
